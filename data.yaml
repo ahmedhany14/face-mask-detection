@@ -1,5 +1,5 @@
 train: /home/hany_jr/Ai/Data sets/Face mask/archive/train/images
-valid: /home/hany_jr/Ai/Data sets/Face mask/archive/valid/images
+val: /home/hany_jr/Ai/Data sets/Face mask/archive/valid/images
 
 nc: 3
 names: ['without_mask', 'with_mask', 'mask_weared_incorrect']
